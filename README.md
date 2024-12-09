@@ -1,5 +1,5 @@
 # Image2Poem Demo 🎨📜  
-(For details about training, visit: <b> https://github.com/ElyasYassin/ImageToPoem </b>) 
+(For details about training, visit: <b> https://github.com/ElyasYassin/ImageToPoem </b>) <br>
 Welcome to the **Image2Poem Demo**, a simple web app created as part of our **Intro to Machine Learning class project**. This application transforms images into poems, showcasing the intersection of creativity and AI. Follow the instructions below to set up and run the app.
 
 ---
