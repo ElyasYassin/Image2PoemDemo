@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Demo",
+			"path": "."
+		},
+		{
+			"name": "gpt2_haiku_model",
+			"path": "../../../../../Projects/ImageToPoem/RL_Implementation/gpt2_haiku_model"
+		}
+	],
+	"settings": {}
+}

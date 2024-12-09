@@ -1,0 +1,5 @@
+Flask
+torch
+transformers
+pillow
+git+https://github.com/huggingface/parler-tts.git
