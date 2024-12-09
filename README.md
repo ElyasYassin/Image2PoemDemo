@@ -10,8 +10,12 @@ Welcome to the **Image2Poem Demo**, a simple web app created as part of our **In
    ```bash
    git clone <repository_url>
    cd <repository_directory>
+
+2. **Setup a virtual environment**  
+   You can either use Anaconda or Venv to avoid dependency issues (Here's the documentation: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html / https://docs.python.org/3/library/venv.html)
    
-2. **Install Dependencies**  
+   
+3. **Install Dependencies**  
    ```bash
    pip install -r requirements.txt
    
