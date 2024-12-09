@@ -31,4 +31,4 @@ Welcome to the **Image2Poem Demo**, a simple web app created as part of our **In
 - <b> Initial Load Time: </b>The web app might take a few seconds to display upon launch.
 - <b>Sound Generation Delay:</b> Generating the audio for the poem will take around 20 seconds (You can look at the terminal for progress information)
 - <b> Bug Alert: </b>If the poem, sound, or image doesn’t update properly, try restarting the Flask app.
-## 🎉 That's it! Enjoy exploring the creative possibilities of Image2Poem!
+## 🎉 That's it! <br> Enjoy exploring the creative possibilities of Image2Poem!
