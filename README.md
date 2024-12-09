@@ -10,24 +10,21 @@ Welcome to the **Image2Poem Demo**, a simple web app created as part of our **In
    ```bash
    git clone <repository_url>
    cd <repository_directory>
-Install Dependencies
-Use the following command to install the required packages:
+   
+2. **Install Dependencies**  
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Download Trained Models**  
+   https://drive.google.com/file/d/1Oe385qiqWQBprXzI31MXeMBSkbr4D3Q5/view?usp=sharing
 
-bash
-Copy code
-pip install -r requirements.txt
-Download Pretrained Models
+3. **Run Flask App**  
+     ```bash
+   flask --app app run
 
-Download the models from this Google Drive link.
-Once downloaded, place the models folder inside the cloned repository.
-Run the Application
-Start the Flask app with:
 
-bash
-Copy code
-flask --app app run
-💡 Notes
-Initial Load Time: The web app might take a few seconds to display upon launch.
-Sound Generation Delay: Generating the audio for the poem will take around 20 seconds.
-Bug Alert: If the poem, sound, or image doesn’t update properly, try restarting the Flask app.
-🎉 That's it! Enjoy exploring the creative possibilities of Image2Poem!
+## 💡 Notes
+- Initial Load Time: The web app might take a few seconds to display upon launch.
+- Sound Generation Delay: Generating the audio for the poem will take around 20 seconds.
+- Bug Alert: If the poem, sound, or image doesn’t update properly, try restarting the Flask app.
+## 🎉 That's it! Enjoy exploring the creative possibilities of Image2Poem!
